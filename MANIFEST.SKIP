@@ -258,3 +258,6 @@ build-language-stamp
 ^plugins/ActionStreams
 ^plugins/CommunityActionStreams
 ^plugins/TypePadAntiSpam
+
+# Jenkins
+Dockerfile
